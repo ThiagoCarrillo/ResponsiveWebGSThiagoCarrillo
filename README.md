@@ -11,4 +11,6 @@ o sistema de pontos que não foi desenvolvido pela falta de tempo e tela de logi
 Devido a falta de tempo e conhecimento muitos pontos foram deixados de lado, porém pontos como design, rotas, git e vercel foram todos
 aplicados com sucesso.
 
+Link do Video: 
+
 
