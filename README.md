@@ -5,3 +5,4 @@ Apesar da global solution solicitar a utilização de NEXT, optei por utilizar v
 Além disso, as conexões com java não foram feitas.
 
 # COMPONENTES
+O site possui
