@@ -4,3 +4,4 @@ Thiago Melo RM553565
 Apesar da global solution solicitar a utilização de NEXT, optei por utilizar vite pela minha falta de conhecimento com NEXT.
 Além disso, as conexões com java não foram feitas.
 
+# COMPONENTES
