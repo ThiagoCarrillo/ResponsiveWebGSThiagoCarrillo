@@ -16,7 +16,7 @@ Agradeço a compreensão.
 
 Link do Video: 
 
-Link do Projeto no Vercel: https://vercel.com/thiago-melos-projects-5de71a66/responsive-web-gs-thiago-carrillo
+Link do Repositório no Vercel: https://vercel.com/thiago-melos-projects-5de71a66/responsive-web-gs-thiago-carrillo
 
-Link do Site no Vercel: https://responsive-web-gs-thiago-carrillo.vercel.app/ 
+Link do APP no Vercel: https://responsive-web-gs-thiago-carrillo.vercel.app/ 
 
