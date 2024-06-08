@@ -14,7 +14,7 @@ aplicados com sucesso.
 Lembrando que fiz o trabalho totalmente sozinho, de todas as matérias, pode parecer uma decisão 100% minha mas nem sempre é o que parece
 Agradeço a compreensão. 
 
-Link do Video: 
+Link do Video: https://youtu.be/Z-sEDooTDqc
 
 Link do Repositório no Vercel: https://vercel.com/thiago-melos-projects-5de71a66/responsive-web-gs-thiago-carrillo
 
